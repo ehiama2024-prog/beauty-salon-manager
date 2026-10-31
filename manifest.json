@@ -1,0 +1,15 @@
+{
+  "name": "BEAUTY SALON MANAGER",
+  "short_name": "Salon",
+  "description": "Gestion de salon de coiffure : caisse, rendez-vous, clients, personnel, stock et finances.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f9",
+  "theme_color": "#6b1d4f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
